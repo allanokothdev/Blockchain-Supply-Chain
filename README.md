@@ -11,14 +11,16 @@ As society has moved from being self-sufficient to relying on others to supply p
 Supply chain participants provide value to small and large producers. For the small producers, an aggregator can collect product from multiple producers and provide larger shipments to processors or warehouses. Large producers benefit from having local points of entry into the supply chain, without having to handle point-to-point shipments to all outlets for their products.
 Consumers benefit as well because the supply chain makes available a wide variety of products from many producers.
 
-Supply Chain Obstacles.
+SUPPLY CHAIN OBSTACLES
 
 Lack of Transparency - Today’s supply chain participants often manage their own data systems and don’t publish their internal data. Separately managed data systems make it difficult to see how items are processed at each step in the chain.
 Lack of Traceability - With limited transparency at each step, the data required for tracing products to their origin is often not available, making authenticity claims and recall notices for points of origin difficult or impossible
 Transfer time lags - Transferring products from one participant to another requires synchronization between organizations and might not occur in real time. Many transfers occur in batches based on scheduled operations. This can cause delays at every stage, resulting in cumulative delays throughout the chain.
 Translation Data loss - Each participant receives, manages, and passes along its own core set of data. Even with decades-old standards, such as Electronic Data Interchange (EDI), some data items might not be passed along from one participant to another, resulting in granular data loss along the supply chain. Also, any data that must be re-keyed because it isn’t passed along is subject to human error
-Nonstandard/Unavailable status tracking - Because each participant generally manages its own data, status updates might not be available at each stage. Some participants might either decline to provide status updates or provide them in a manner that is incompatible with status updates from other participants. In the latter case, the status update requestor is required to assimilate status updates in various formats and harmonize them into meaningful output
-Blockchain Solution to Supply Chain Obstacles.
+Nonstandard/Unavailable status tracking - Because each participant generally manages its own data, status updates might not be available at each stage. Some participants might either decline to provide status updates or provide them in a manner that is incompatible with status updates from other participants. In the latter case, the status update requestor is required to assimilate status updates in various formats and harmonize them into meaningful output.
+
+
+BLOCKCHAIN SOLUTION TO SUPPLY CHAIN OBSTACLES
 
 Lack of Transparency – Blockchain technology does not have a central authority. All transactions are published to the shared blockchain. Any participating node can view transactions and verify their authenticity
 
